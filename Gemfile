@@ -48,5 +48,6 @@ group :development do
   gem 'sprockets', '~> 2.11.3'
   gem 'pry-rails'
   gem 'kaminari'
+  gem 'devise'
 end
 
