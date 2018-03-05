@@ -46,10 +46,7 @@ group :development do
   gem 'pry-rails'
   gem 'compass-rails', '~> 2.0'
   gem 'sprockets', '~> 2.11.3'
-<<<<<<< HEAD
   gem 'pry-rails'
-=======
   gem 'kaminari'
->>>>>>> 80c0badd13bdab1b09216297939d635be8517b6b
 end
 
