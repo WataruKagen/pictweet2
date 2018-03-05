@@ -47,5 +47,7 @@ group :development do
   gem 'compass-rails', '~> 2.0'
   gem 'sprockets', '~> 2.11.3'
   gem 'pry-rails'
+  gem 'kaminari'
+  gem 'devise'
 end
 
